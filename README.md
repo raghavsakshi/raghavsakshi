@@ -1,2 +1,2 @@
-this is my first Git respitory 
+this is my first Git Repository 
 Author - Sakshi
